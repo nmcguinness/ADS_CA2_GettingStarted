@@ -7,5 +7,5 @@
 int main()
 {
 	CircularQueue<int> q(4);
-	std::cout << "Hello World!\n";
+	std::cout << "Hello World!...\n";
 }
