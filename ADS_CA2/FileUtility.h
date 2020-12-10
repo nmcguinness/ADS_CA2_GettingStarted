@@ -8,6 +8,8 @@ class FileUtility {
 public:
 
 	/// @brief Read the contents of a file into a string
+	/// string data = FileUtility::readFile("c:/temp/xml.txt")
+	///
 	/// @param filename Full path and suffix (e.g. c:/temp/xml.txt)
 	/// @return String contents
 	static string readFile(string filename)

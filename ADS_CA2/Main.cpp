@@ -25,6 +25,6 @@ void demoParsingXMLTags() {
 
 	while (pos != data.length()) {
 		tag = XMLUtility::getNextTag(data, pos, isClosing);
-		cout << tag << "Type: " << (isClosing ? "Closing" : "Opening") << endl;
+		cout << tag << ", Type: " << (isClosing ? "Closing" : "Opening") << endl;
 	}
 }
