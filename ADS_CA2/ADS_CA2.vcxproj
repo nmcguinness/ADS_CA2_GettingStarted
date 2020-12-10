@@ -143,6 +143,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CircularQueue.h" />
+    <ClInclude Include="FileUtility.h" />
+    <ClInclude Include="StringUtility.h" />
+    <ClInclude Include="XMLUtility.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

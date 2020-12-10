@@ -23,5 +23,14 @@
     <ClInclude Include="CircularQueue.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="XMLUtility.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FileUtility.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StringUtility.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
